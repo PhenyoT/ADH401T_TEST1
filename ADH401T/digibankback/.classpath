@@ -13,12 +13,8 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="C:/Users/PhenyoT/Downloads/JAVA/hibernate-c3p0-4.3.8.Final.jar"/>
-	<classpathentry kind="lib" path="C:/Users/PhenyoT/Downloads/JAVA/hibernate-commons-annotations-4.0.5.Final.jar"/>
 	<classpathentry kind="lib" path="C:/Users/PhenyoT/Downloads/JAVA/hibernate-core-4.3.8.Final.jar"/>
-	<classpathentry kind="lib" path="C:/Users/PhenyoT/Downloads/JAVA/javax.ejb-api-3.2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/PhenyoT/Downloads/JAVA/javax.faces-api-2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/PhenyoT/Downloads/JAVA/javax.inject-1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/PhenyoT/Downloads/JAVA/javax.persistence-api-2.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/PhenyoT/Downloads/JAVA/log4j-api-2.0-beta4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PhenyoT/Downloads/JAVA/hibernate-commons-annotations-4.0.5.Final.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
